@@ -1,0 +1,150 @@
+# Anti-Sleep Vibrator Alarm
+
+## Overview
+
+The Anti-Sleep Vibrator Alarm is a wearable drowsiness detection system designed to improve driver safety by alerting users when signs of fatigue are detected. The system uses an infrared (IR) sensor to monitor eye activity and a buzzer to generate an alarm when prolonged eye closure is detected.
+
+The prototype is mounted on a spectacle frame, making it lightweight, portable, and suitable for real-time use during driving or other attention-critical activities.
+
+---
+
+## Problem Statement
+
+Driver drowsiness is one of the major causes of road accidents, especially during long-distance travel and night driving. Many existing solutions are expensive and require complex hardware.
+
+This project aims to provide a simple, low-cost, and wearable solution for detecting drowsiness and alerting the user before accidents occur.
+
+---
+
+## Objectives
+
+* Detect prolonged eye closure using an IR sensor.
+* Alert the user immediately using a buzzer.
+* Develop a compact and wearable prototype.
+* Improve driver awareness and road safety.
+* Create a low-cost drowsiness detection solution.
+
+---
+
+## Components Used
+
+| Component        | Quantity    |
+| ---------------- | ----------- |
+| IR Sensor        | 1           |
+| Buzzer           | 1           |
+| 5V Battery       | 1           |
+| Spectacle Frame  | 1           |
+| Connecting Wires | As Required |
+
+---
+
+## Working Principle
+
+The IR sensor continuously emits infrared light and monitors the reflected signal from the eye region.
+
+When the eyes are open, the reflected infrared signal remains within the normal operating range.
+
+When the eyes remain closed for a longer duration, the reflected signal changes significantly.
+
+This change is detected by the sensor circuitry, which activates the buzzer.
+
+The buzzer alerts the user, helping prevent fatigue-related accidents.
+
+---
+
+## System Architecture
+
+Eye Movement
+
+↓
+
+IR Sensor Detection
+
+↓
+
+Signal Processing
+
+↓
+
+Drowsiness Detection
+
+↓
+
+Buzzer Activation
+
+↓
+
+User Alert
+
+---
+
+## Features
+
+* Wearable Design
+* Real-Time Eye Monitoring
+* Instant Audio Alert
+* Low Power Consumption
+* Lightweight Construction
+* Cost-Effective Solution
+* Simple Hardware Design
+
+---
+
+## Applications
+
+* Driver Safety Systems
+* Long-Distance Transportation
+* Night-Time Driving
+* Industrial Machine Operators
+* Security Personnel
+* Students During Long Study Sessions
+
+---
+
+## Advantages
+
+* Easy to Use
+* Portable and Lightweight
+* Low Cost
+* Immediate Alert Generation
+* Reduced Risk of Fatigue-Related Accidents
+* Simple Implementation
+
+---
+
+## Limitations
+
+* Performance may vary with sensor positioning.
+* Ambient infrared interference may affect accuracy.
+* Designed as a prototype and not a commercial product.
+* Limited detection capabilities compared to advanced camera-based systems.
+
+---
+
+## Future Enhancements
+
+* Arduino-Based Processing Unit
+* Vibration Motor Alert
+* Bluetooth Connectivity
+* Mobile Application Integration
+* Eye Blink Pattern Analysis
+* Machine Learning-Based Drowsiness Detection
+* IoT-Based Monitoring System
+
+---
+
+## Achievement
+
+This project was successfully presented at Tech Expo 2024 conducted by Government College of Engineering, Tirunelveli.
+
+---
+
+## Software
+
+This project is a hardware-based prototype and does not use any microcontroller or embedded software. Therefore, no source code is included in this repository.
+
+---
+
+## Conclusion
+
+The Anti-Sleep Vibrator Alarm demonstrates a simple and practical approach to drowsiness detection using an IR sensor and buzzer. The wearable design and real-time alert mechanism make it suitable for improving safety during activities that require continuous attention. The project serves as a foundation for future development of advanced driver assistance systems.
