@@ -1,7 +1,7 @@
 ## Hardware Components
 
-| Component | Specification | Quantity | Purpose |
-|------------------|---|---|---|
+| Component | Quantity | Purpose |
+|-------------------|---|---|
 | IR Sensor Module |  1 | Eye closure detection |
 | Active Buzzer    |  1 | Audio alert |
 | Spectacle Frame  |  1 | Wearable mount |
