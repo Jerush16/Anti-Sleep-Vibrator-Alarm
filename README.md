@@ -21,8 +21,8 @@ regular glasses — no external hardware, no phone, no app required.
 ## Project Photos
 
 ### Wearable Setup
-![Setup1](image/setup1.jpg)
-![Setup2](image/setup2.jpg)
+![setup1](image/setup1.png)
+![setup2](image/setup2.png)
 
 ---
 
@@ -54,7 +54,7 @@ no code, no processing latency. Response is instantaneous.
 
 ## Circuit Diagram
 
-![Circuit Diagram](image/circuit diagram.png)
+![circuit_diagram](image/circuit_diagram.png)
 
 
 ## Design Decisions
