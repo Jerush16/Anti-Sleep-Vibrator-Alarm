@@ -54,7 +54,7 @@ no code, no processing latency. Response is instantaneous.
 
 ## Circuit Diagram
 
-![Circuit Diagram](image/circuit diagram.jpg)
+![Circuit Diagram](image/circuit diagram.png)
 
 
 ## Design Decisions
